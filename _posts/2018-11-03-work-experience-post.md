@@ -1,9 +1,17 @@
 ---
-title: "Note"
+title: "Work Experience"
 date: 2018-11-03 16:00:00 +0900
-categories: goal
+categories: personal
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+**[2017.01.01 ~ 현재]**
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+회사명  : 뱅크웨어글로벌 (응용 소프트웨어 개발 및 공급업)
+
+부서, 직책  :  금융 2본부 서비스사업 2팀, 사원
+
+**[2013.12.06 ~ 2014.08.31]**
+
+회사명  : 시스원(컴퓨터시스템 통합 자문 및 구축 서비스업)
+
+부서, 직책  :  기술지원부(TS) 2팀 사원
