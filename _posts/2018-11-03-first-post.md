@@ -1,6 +1,6 @@
 ---
 title: "First Note"
-date: 2018-11-03 14:43:99 -0400
+date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
 
