@@ -79,6 +79,17 @@ naver_site_verification  :
 category_dir		         : "category/"
 tag_dir			             : "tag/"
 
+# add navigation
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Categories
+   url: /category
+ - title: Contact
+   url: /contact
+
 # Social Sharing
 twitter:
   username               :
