@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Sewoong Kim"
-  avatar           : "images/imgae01.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/imgae01.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Developer on Bankware Global"
   location         : "Seoul, Republic of Korea"
   email            :
