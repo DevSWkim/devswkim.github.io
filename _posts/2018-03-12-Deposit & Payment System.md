@@ -15,11 +15,8 @@ tag: project
 개발기간 : 2018.03.12 ~ 2018.08.31
 
 개발환경 : 뱅크웨어글로벌 BXM Studio 3.5 (프레임워크)
-
          뱅크웨어글로벌 BXMU (UI 플랫폼)
-
          뱅크웨어글로벌 CBP Core 
-
          클라우드링크 (Cloud)
 
 Lang/Tools : Java, MySQL, BXM3.5, Cloudlink(Cloud)
