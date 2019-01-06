@@ -24,13 +24,14 @@
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-            <a><span id="busuanzi_container_site_pv">visit <span id="busuanzi_value_site_pv"></span>count</span></a>
+            <a><span id="busuanzi_container_site_pv">count : <span id="busuanzi_value_site_pv"></span></span></a>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown">关于<b class="caret"></b></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">Menu<b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a rel="nofollow" target="_blank" href="{{site.github}}">Github</a></li>
-            <li><a rel="nofollow" target="_blank" href="{{site.resume_site}}">About me</a></li>
+            <li><a rel="nofollow" href="{{ '/introduce' | prepend: site.baseurl }}">Introduce</a></li>
+            <!-- <li><a rel="nofollow" target="_blank" href="{{site.resume_site}}">Resume site</a></li> -->
             <li><a rel="nofollow" href="{{ '/books' | prepend: site.baseurl }}">Books</a></li>
             <li><a rel="nofollow" href="http://www.hifreud.com/domains/">Domains</a></li>
             <li><a rel="nofollow" href="{{ '/reference' | prepend: site.baseurl }}">Reference</a></li>
