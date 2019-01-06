@@ -1,0 +1,24 @@
+# Site settings
+name: Portfolio
+email: kimsewoong@outlook.com
+author: KIM SEWOONG
+url: http://devswkim.github.io
+resume_site: http://devswkim.github.io
+github: https://github.com/devswkim/
+baseurl: "/LessOrMore"
+description: Personal Protfolio!
+meta_description: 개인 포트폴리오
+motto: TEST.
+banner: TEST
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: devswkim
+
+# Build settings
+markdown: kramdown
+
