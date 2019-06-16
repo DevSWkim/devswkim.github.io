@@ -10,36 +10,10 @@ layout: default
 
 
 {%- if site.posts.size > 0 -%}
-<ul class="career">
-	{%- for post in site.posts -%}
-	<li>
-		<h1 id="posts-label">career</h1>
-	</li>
-	<li>
-		{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-		<a class="post-link" href="{{ post.url | relative_url }}">
-			<h2 class="post-title">{{ post.title | escape }}</h2>
-		</a>
-		<div class="post-meta">
-			<ul class="post-categories">
-				{%- for tag in post.categories -%}
-				<li>{{ tag }}</li>
-				{%- endfor -%}
-			</ul>
-			<div class="post-date"><i class="icon-calendar"></i>{{ post.date | date: date_format }}</div>
-		</div>
-		<div class="post">
-			{%- if site.show_excerpts -%}
-			{{ post.excerpt }}
-			{%- endif -%}
-		</div>
-	</li>
-	{%- endfor -%}
-</ul>
-
 <ul class="posts">
 	{%- for post in site.posts -%}
 	<li>
+		<h1 id="career-label">career</h1>
 		<h1 id="posts-label">posts</h1>
 	</li>
 	<li>
